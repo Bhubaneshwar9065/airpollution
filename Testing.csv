@@ -1,0 +1,101 @@
+ ID Status,Name,Age-Coustember,Gender,Account Type,Balance,Branch,Account Status – Active/Dormant/Closed,Loan Status – Whether customer has a loan,Credit Score – 300-900 score range
+SBI00121,Bhuban Sahu,23,Male,Currant,"85,400",Bihar,Active,No,34
+SBI00122, Naina sahu,24,Female,Saving,"55,864",Delhi,Active,No,23
+SBI00123,Guddy Kumari,25,Female,Saving,"54,313",chennai,Active,No,13
+SBI00124,shewta mehata,17,Male,Saving,"1,21,225",bangaluru,Active,yes,43
+SBI00125,Gautam kumar,18,Male,Currant,"56,849",chhatishgadh,Inactive,No,35
+SBI00126,Aaysh Kumar,19,Male,Saving,"41,268",MP,Active,No,50
+SBI00127,Anil kumar,20,Male,Saving,"69,452",UP ,Active,No,35
+SBI00128,YoYOhanishing,23,Male,Currant,"58,985",jharkhand,Active,No,25
+SBI00129,Ramesh sahu,24,Male,Saving,"65,789",Bihar,Active,No,25
+SBI00130,payal kumar,22,Female,Saving,"57,786",Delhi,Active,yes,52
+SBI00131,nukita kumari,21,Female,Currant,"55,807",chennai,Active,No,23
+SBI00132,Duleshowri,21,Female,Currant,"53,827",bangaluru,Active,No,52
+SBI00133,Prem kumar,23,Male,Saving,"51,848",chhatishgadh,Inactive,No,25
+SBI00134,patush kumar,30,Male,Saving,"49,869",MP,Active,No,34
+SBI00135,Mayank Kuamr,16,Male,Saving,"47,889",UP ,Active,No,2
+SBI00136,Aashish Kumar,27,Male,Currant,"45,910",jharkhand,Active,No,13
+SBI00137,Ankit Kumar,28,Female,Saving,"43,931",Bihar,Active,yes,9
+SBI00138,Nitu kumari,31,Female,Currant,"41,951",Delhi,Active,No,5
+SBI00139,sanoj Kumar,19,Male,Saving,"39,972",chennai,Active,No,6
+SBI00140,Sanjeev kumar,19,Male,Currant,"37,993",bangaluru,Active,No,35
+SBI00141,rakesh kumar,18,Male,Saving,"36,013",chhatishgadh,Inactive,No,25
+SBI00142,raushan kumar,17,Male,Saving,"34,034",MP,Active,No,28
+SBI00143,Deepak Kumar,27,Male,Currant,"32,055",UP ,Active,No,19
+SBI00144,Suraj kumar,28,Male,Currant,"30,075",jharkhand,Active,No,19
+SBI00145,saru khan,25,Male,Saving,"28,096",Bihar,Active,yes,18
+SBI00146,khan babu,19,Male,Currant,"26,117",Delhi,Active,No,0
+SBI00147,sajan kumar,23,Male,Currant,"24,137",chennai,Active,No,23
+SBI00148,ankush kumar,24,Male,Saving,"22,158",bangaluru,Active,No,17
+SBI00149,kartik kumar,25,Male,Currant,"20,179",chhatishgadh,Active,No,17
+SBI00150,pally sahu ,26,Male,Saving,"18,199",MP,Active,No,14
+SBI00151,priyaka kumari,22,Female,Currant,"16,220",UP ,Active,No,11
+SBI00152,Sohan Kumar,31,Male,Currant,"14,241",jharkhand,Active,No,22
+SBI00153,Shiwam Sahu,41,Male,Saving,"12,261",Bihar,Inactive,No,19
+SBI00154,Ajay sahu,43,Male,Currant,"10,282",Delhi,Active,yes,15
+SBI00155,Ajay yadav,42,Male,Currant,"8,303",chennai,Active,No,13
+SBI00156,Himanshu yadav,13,Male,Saving,"6,323",bangaluru,Active,No,12
+SBI00157,salu patle,15,Male,Currant,"4,344",chhatishgadh,Active,No,21
+SBI00158,Pappu yadav ,19,Male,Saving,"2,365",MP,Active,No,14
+SBI00159,Vindeshwari yadav,15,Male,Saving,385,UP ,Inactive,No,14
+SBI00160,Manish kumar,27,Male,Currant,"1,594",jharkhand,Active,No,41
+SBI00161,Manisha kumari ,24,Female,Saving,"3,573",Bihar,Active,No,15
+SBI00162,sinkesh Kumar,34,Male,Saving,"56,789",Delhi,Active,No,20
+SBI00163,Anmol Kumar,35,Male,Currant,"45,789",chennai,Active,yes,10
+SBI00164,Rambabu kumar,25,Male,Saving,"98,658",bangaluru,Active,No,13
+SBI00165,Vivek Kumar ,26,Male,Currant,"65,897",chhatishgadh,Active,No,19
+SBI00166,Ajit pashwan ,23,Male,Currant,"18,987",MP,Inactive,No,14
+SBI00167,Sushil Kumr,24,Male,Saving,"78,985",UP ,Active,No,13
+SBI00168,Dinesh kumar ,33,Male,Currant,"60,632",jharkhand,Active,No,41
+SBI00169,Praween patle ',44,Male,Saving,"60,570",Bihar,Active,No,18
+SBI00170,Pradeep sahu ,42,Male,Saving,"60,507",Delhi,Active,No,19
+SBI00171,Kuldeep Sahu ,32,Male,Currant,"60,445",chennai,Active,yes,10
+SBI00172,Maheshwari Kumar,32,Male,Saving,"60,382",bangaluru,Inactive,No,1
+SBI00173,Vikash yadav,45,Male,Currant,"60,320",chhatishgadh,Active,No,
+SBI00174,Mohit Kumar,32,Male,Saving,"60,257",MP,Active,No,3
+SBI00175,Ajad kumar,32,Male,Saving,"60,195",UP ,Active,No,18
+SBI00176,Arjun Kumar,2324,Male,Saving,"60,132",jharkhand,Active,No,19
+SBI00177,Ravindra ,29,Male,Currant,"60,070",Bihar,Inactive,No,17
+SBI00178,rishu Kumar,20,Male,Saving,"60,007",Delhi,Active,No,15
+SBI00179,Rishbh panth,20,Male,Saving,"59,945",chennai,Active,No,14
+SBI00180,Rohit shrama ,29,Male,Currant,"59,882",bangaluru,Active,No,13
+SBI00181,Jadeja ,26,Male,Saving,"59,820",chhatishgadh,Active,yes,19
+SBI00182,Natasha,252,Female,Currant,"59,757",MP,Active,No,15
+SBI00183,Naresh sahu ,24,Male,Saving,"59,695",UP ,Active,No,41
+SBI00184,Tribhuban Kumar,25,Female,Saving,"59,632",jharkhand,Active,No,15
+SBI00185,Kalpana Devi,24,Female,Saving,"59,570",Bihar,Active,No,32
+SBI00186,Punam Kumari,24,Female,Currant,"59,507",Delhi,Active,No,35
+SBI00187,Gungan Kumari ,23,Male,Currant,"59,445",chennai,Active,No,15
+SBI00188,Pritam Kumar ,22,Male,Currant,"59,382",bangaluru,Inactive,yes,38
+SBI00189,Sajan yadav,21,Male,Currant,"59,320",chhatishgadh,Active,No,27
+SBI00190,Nitish Kumar ,21,Male,Saving,"59,257",MP,Active,No,28
+SBI00191,Jayprakash ,22,Male,Saving,"59,195",UP ,Active,No,25
+SBI00192,Sushash Kumar,21,Male,Saving,"59,132",jharkhand,Active,No,34
+SBI00193,Sudha sardar,25,Male,Saving,"59,070",Bihar,Active,No,32
+SBI00194,Shiwam Kumar,24,Male,Currant,"59,008",Delhi,Active,yes,26
+SBI00195,Suresh Kumar ,23,Male,Currant,"58,945",chennai,Inactive,No,45
+SBI00196,Nitesh Kumar,25,Male,Saving,"58,883",bangaluru,Active,No,25
+SBI00197,ranpratap Kuamr,24,Male,Currant,"58,820",chhatishgadh,Active,No,2
+SBI00198,Ranveer Kumar ,25,Male,Currant,"58,758",MP,Inactive,No,2
+SBI00199,DhanVeer kuamr,26,Male,Currant,"58,695",UP ,Active,No,31
+SBI00200,Manjay Sahu ,37,Male,Saving,"58,633",jharkhand,Active,No,34
+SBI00201,Kiran Devi ,25,Female,Saving,"58,570",Bihar,Active,No,2
+SBI00202,Suchita Devi ,26,Female,Currant,"58,508",Delhi,Active,yes,12
+SBI00203,Lalita devi ,26,Female,Saving,"58,445",chennai,Active,No,12
+SBI00204,Pramila Devi ,24,Female,Saving,"58,383",bangaluru,Inactive,No,11
+SBI00205,Rasho Devi ,24,Female,Currant,"58,320",chhatishgadh,Active,No,11
+SBI00206,Gita Devi,26,Female,Saving,"58,258",MP,Active,No,24
+SBI00207,Ganita kumari ,25,Female,Currant,"58,195",UP ,Active,No,4
+SBI00208,Anshuya kumari ,23,Female,Currant,"58,133",jharkhand,Inactive,No,5
+SBI00209,Shakhi Kumari,34,Female,Currant,"58,070",Bihar,Active,No,1
+SBI00210,Mukesh Kumar ,43,Male,Currant,"58,008",Delhi,Active,yes,11
+SBI00211,Pushpa Devi,32,Female,Saving,"57,945",chennai,Active,No,33
+SBI00212,Sarswati Kumari ,21,Female,Saving,"57,883",bangaluru,Active,No,8
+SBI00213,Sunita kumari ,20,Female,Currant,"57,820",chhatishgadh,Active,No,44
+SBI00214,panttu sahu ,29,Male,Currant,"57,758",MP,Active,No,34
+SBI00215,Govinda Sahu ,28,Male,Saving,"57,695",UP ,Active,No,21
+SBI00216,Jyoti shahu ,31,Female,Saving,"57,633",jharkhand,Inactive,yes,45
+SBI00217,Dolly Kumari,25,Female,Currant,"57,570",Bihar,Active,No,24
+SBI00218,nitin gadh,24,Male,Currant,"57,508",Delhi,Active,No,22
+SBI00219,Susant Kumar,32,Male,Currant,"57,445",chennai,Active,No,34
+,,,,,,,,,11
